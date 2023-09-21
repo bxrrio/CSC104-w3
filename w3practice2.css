@@ -1,0 +1,20 @@
+body{
+    background-color: burlywood;
+    color: rgb(114, 58, 18);
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1{
+    text-decoration: underline;
+    text-align: center;
+}
+
+p{
+    font-size: larger;
+    text-align:center;
+}
+
+img{
+    border: 5px solid #555;
+    border-color: rgb(114, 58, 18);
+}
